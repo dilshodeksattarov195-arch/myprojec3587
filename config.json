@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcerify",
+        "uuid": 2105569,
+        "checksum": "jy47f8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
